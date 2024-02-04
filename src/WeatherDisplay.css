@@ -1,0 +1,19 @@
+/* src/WeatherDisplay.css */
+.weather-display {
+    padding: 20px;
+    margin: 20px auto;
+    width: fit-content;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .weather-display h2 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .weather-display p {
+    color: #666;
+  }
+  

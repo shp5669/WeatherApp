@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://shp5669.github.io/WeatherApp/" target="_blank">seanpark</a>
+  Weather App<br/>
+  <a href="https://shp5669.github.io/WeatherApp/" target="_blank">Weather</a>
 </h2>
 
 <br/>
